@@ -84,7 +84,7 @@ The application supports:
 
 The application loads previously trained models and does not retrain them during evaluation.
 
-**Live Streamlit App:** To be added after deployment.
+**Live Streamlit App:** https://dry-bean-classification-2026ak05702.streamlit.app/
 
 ## 8. GitHub Repository
 
